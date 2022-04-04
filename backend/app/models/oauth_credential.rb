@@ -1,0 +1,2 @@
+class OauthCredential < ApplicationRecord
+end
